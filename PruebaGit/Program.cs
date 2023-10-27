@@ -6,7 +6,7 @@
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("MENSAJE DESDE GITHUB")
+Console.WriteLine("MENSAJE DESDE GITHUB");
 
 
 //AGREGO OTRA FUNCION: ENVIAR CORREOS A CLIENTES
